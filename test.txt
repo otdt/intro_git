@@ -5,3 +5,4 @@ Gitの練習をしていく。
 - git rm
 - git status
 - git log
+- git diff2
